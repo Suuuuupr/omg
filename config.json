@@ -1,5 +1,5 @@
 {
-  "token": "NTM1NDYxNDExNTIyODcxMzA2.DyIhuA.wXaYp7NtYHvRQ_KwTFKoSkjALxA",
+  "token": "process.env.BOT_TOKEN",
   "prefix": "hb!",
   "hasteurl": "https://hastebin.com"
 }
